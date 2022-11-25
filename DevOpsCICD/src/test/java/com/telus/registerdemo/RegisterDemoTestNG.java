@@ -67,7 +67,7 @@ public class RegisterDemoTestNG {
 	@BeforeClass
 	public void launchApplication() {
 		
-		System.out.println("Continous Testing Started");
+		System.out.println("Jenkins integration is completed");
 		
 		// To Set System Property
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
