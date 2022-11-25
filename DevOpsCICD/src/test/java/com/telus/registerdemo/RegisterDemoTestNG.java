@@ -12,6 +12,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 // Updated the code by Akhil - 25th Nov 2022
+// Updated the code by Vinoth R - 25th Nov 2022
 
 public class RegisterDemoTestNG {
 	
@@ -67,7 +68,7 @@ public class RegisterDemoTestNG {
 	@BeforeClass
 	public void launchApplication() {
 		
-		System.out.println("Jenkins integration is completed");
+		System.out.println("Continous Integration is starteda");
 		
 		// To Set System Property
 		System.setProperty("webdriver.chrome.driver", ".\\Drivers\\chromedriver.exe");
