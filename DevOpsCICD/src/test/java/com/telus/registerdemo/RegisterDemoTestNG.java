@@ -11,7 +11,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-
+// Updated the code by Akhil - 25th Nov 2022
 
 public class RegisterDemoTestNG {
 	
